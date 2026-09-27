@@ -71,7 +71,7 @@ Product-Sales-Analysis/
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/fatoudiouf/Product-Sales-Analysis.git
+git clone https://github.com/FatouDiouf9819/Product-Sales-Analysis.git
 cd Product-Sales-Analysis
 ```
 
@@ -98,4 +98,4 @@ python product_sales_analysis.py
 
 **Fatou DIOUF**  
 Étudiante en **Master 1 Modélisation Mathématique et Simulation Numérique**  
-*Profil GitHub :* [github.com/fatoudiouf](https://github.com/fatoudiouf)
+*Profil GitHub :* [github.com/FatouDiouf9819](https://github.com/FatouDiouf9819)
